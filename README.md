@@ -5,6 +5,11 @@ https://drive.google.com/drive/folders/1vWOXld-1rxQsFj0_QhtEpaAvD0Fbwefx (Conjun
 
 Para isso, elaboramos ao todo  4 perguntas em cima desse conjunto de dados brutos, o que nos guiou para criar os relacionamentos no banco de dados, sendo elas:
 
+
+
+
+
+
 1. Quais personagens da série têm mais tempo de tela?
 ![Gráfico-personagens](https://user-images.githubusercontent.com/114230642/216784839-c6c562f2-a96c-43ce-847a-392f09c9b109.png)
 
@@ -24,12 +29,23 @@ ORDER BY `got_characters`.`Time_screen` DESC
 
 
 
+
+
+
+
+
 2. Quais foram os episódios com as melhores avaliaçõe?
 ![Gráfico-Episódios](https://user-images.githubusercontent.com/114230642/216784858-6a566767-d789-44cd-b61b-d7b0cecfcd62.png)
 
 v1-
 SELECT Season, episode, Rating, Votes FROM got_episodes_v4 
 where Rating = '9,9';
+
+
+
+
+
+
 
 
 
