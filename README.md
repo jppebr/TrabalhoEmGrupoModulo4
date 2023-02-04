@@ -6,6 +6,7 @@ https://drive.google.com/drive/folders/1vWOXld-1rxQsFj0_QhtEpaAvD0Fbwefx (Conjun
 Para isso, elaboramos ao todo  4 perguntas em cima desse conjunto de dados brutos, o que nos guiou para criar os relacionamentos no banco de dados, sendo elas:
 
 1. Quais personagens da série têm mais tempo de tela?
+![image](https://user-images.githubusercontent.com/114230642/216784805-3c0dfe6e-8d7e-4a30-bf4f-5c97c2cc033f.png)
 
 
 2. Quais foram os episódios com as melhores avaliaçõe?
