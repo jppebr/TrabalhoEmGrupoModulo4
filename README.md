@@ -1,6 +1,6 @@
 Trabalho Em Grupo Modulo 4
 
-Nesse  projeto, nossa equipe  precisava montar um dashboard com  base no conjunto de dados que escolhemos dentro dos que nos foram disponibilizados, e  escolhemos o tema de Game of Thrones. 
+Nesse  projeto, nossa equipe  precisava montar um dashboard com  base no conjunto de dados que escolhemos dentro dos que nos foram disponibilizados, e  escolhemos o tema de Game of Thrones.
 https://drive.google.com/drive/folders/1vWOXld-1rxQsFj0_QhtEpaAvD0Fbwefx (Conjunto de dados brutos)
 
 Para isso, elaboramos ao todo  4 perguntas em cima desse conjunto de dados brutos, o que nos guiou para criar os relacionamentos no banco de dados, sendo elas:
